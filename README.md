@@ -1,30 +1,13 @@
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
-![GitHub Aasish](https://img.shields.io/github/followers/KyberNull)&nbsp;
-### 👨🏻‍💻 &nbsp;About Me
+hi,
 
-💡 &nbsp; I'm an Electrical Engineering student at Indian Institute of Technology Tirupati! \
-💻 &nbsp;I'm currently interested in the field of Natural Language Processing and Low level hardware software codesign.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence in general, Parallel Computing, and Computer Vision.\
-✍️ &nbsp;In my free time, I play chess, badminton and journal.\
-📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/aasish-srivatsa-yenni/) for more details about my experiences.
+i'm an electrical engineering student with a deep interest in computing, artificial intelligence, and understanding how things work.
 
+i enjoy exploring ideas across computer science, mathematics, and engineering, from algorithms and intelligent systems to the dynamics of physical systems and the mathematics behind them.
 
-### 🛠 &nbsp;Tech Stack
+outside academics, i'm usually programming, experimenting with ai models, reading about something that caught my attention. i enjoy understanding how things work under the hood, whether that's a machine learning model, a computer system, or a system described by a set of equations.
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
+my interests currently lie around machine learning, computer systems, parallel computing, signal processing, control theory, and mathematical modelling.
 
-### 📫 &nbsp; How to reach me:
+i like moving between these areas, picking up unfamiliar concepts and finding ways to put them into practice.
 
-<a href="https://www.linkedin.com/in/aasish-srivatsa-yenni/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-![X](https://img.shields.io/twitter/url/https://www.x.com/KyberNull)&nbsp;
-
-
-
-
-
+i'm always happy to connect with people who enjoy discussing technology, engineering, or an interesting idea.feel free to reach out!
